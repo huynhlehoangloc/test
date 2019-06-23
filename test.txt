@@ -1,1 +1,2 @@
 read text 
+thay d?i các giá tr? và push lên git hub
